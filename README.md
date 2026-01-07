@@ -1,1 +1,1 @@
-# edtech
+# edtech.ai
